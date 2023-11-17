@@ -1,0 +1,15 @@
+# Ignore virtual environment folder
+.venv/
+
+# Ignore IPython notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data folder and its contents
+data/
+
+# Ignore outputs folder and its contents
+outputs/
+
+# Ignore DS_Store file
+.DS_Store
+
